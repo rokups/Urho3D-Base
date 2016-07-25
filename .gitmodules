@@ -1,0 +1,4 @@
+[submodule "dep/Urho3D"]
+	path = dep/Urho3D
+	url = https://github.com/rokups/Urho3D.git
+	branch = add_subdirectory-hack
